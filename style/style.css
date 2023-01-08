@@ -1,0 +1,167 @@
+*{
+    margin: 0;
+    font-family: 'Work Sans', sans-serif;
+}
+
+/* Hader section style start */
+.hader{
+   max-width: 1600px;
+max-height: 809px;
+background-image: url('../images/banner/banner2.png');
+
+}
+
+.hader-title{
+    text-align: right;
+    font-weight: 700;
+    font-size: 65px;
+    color: #151414;
+    padding-top: 216px;
+    padding-left: 845px;
+    padding-right: 30px;
+    margin-bottom: 24px;
+}
+
+.hader-discription{
+    color: #444343;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: right;
+    padding-left: 850px;
+    padding-right: 50px;
+    padding-bottom: 32px;
+
+}
+
+.btn-primary{
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 20px;
+    border: 0; 
+    padding: 20px 25px;
+    border-radius: 10px;
+    background: #07630e;
+
+
+}
+.contact-btn{
+padding-left: 950px;
+padding-right: 200px;
+padding-bottom: 167px;
+}
+/* Hader section style end */
+.failoure-section{
+    margin-top: 130px;
+    margin-left: 206px;
+    margin-right: 100px;
+    display: flex;
+    gap: 87px;
+}
+
+.my-failoure{
+background-repeat: no-repeat;
+}
+
+.failoure-image{
+    background-repeat: no-repeat;
+}
+.failoure-items{
+
+}
+.failoure-title{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414;
+    margin-top: 270px;
+    margin-bottom: 24px;
+    
+}
+
+.failoure-text{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+    margin-bottom: 16px;
+}
+
+.failoure-check-list{
+
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+}
+
+/* My Plans Styles */
+.my-plans{
+
+
+}
+.my-plans-title{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414;
+    text-align: center;
+    margin-top: 130px;
+
+}
+.my-plans-title-container{
+
+    display: flex;
+    gap:100px;
+    margin: 50px 100px 124px 100px ;
+    text-align: center;
+    
+    
+}
+
+.plans-title{
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    color: #151414;
+    padding-top: 24px;
+    padding-bottom: 16px;
+
+}
+
+
+.plans-discription{
+    color: #737272;
+    font-weight: 50px;
+font-size: 20px;
+
+}
+
+
+/* Awlays keep a positive mindset */
+.positive-mindset{
+    margin-left: 230px;
+    margin-right: 230px;
+    margin-bottom: 130px;
+
+    
+}
+.positive-mindset-text-title{
+    
+    background-image: url('../images/gradient2.png'), url('../images/watch.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 300px;
+border-radius: 8px;
+}
+.positive-mindset-title{
+    text-align: left;
+    padding-left: 64px;
+    padding-top: 59px;
+    padding-right: 250px;
+padding-bottom: 160px;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #FFFFFF;
+}
