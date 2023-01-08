@@ -178,3 +178,63 @@ padding-left: 64px;
     border-radius: 10px;
     background:  #FFFFFF;
 }
+
+/* FUTUR Section */
+.bottom-content{
+    padding-top: 130px;
+    padding-right: 130px;
+    display: flex;
+    gap: 200px;
+    height: 577px;
+    background: #151414;
+}
+.bottom-content a{
+    text-decoration: none;
+
+    
+}
+.future-title{
+    padding-left: 230px;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 53px;
+    color: #F8F8F8;
+}
+.future-discription{
+    padding-left: 230px;
+    color: #FFFFFF;
+
+}
+.subscribe{
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 29px;
+    color: #FFFFFF;
+    padding-bottom: 31px;
+}
+.right-half input[type="email"] {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #F3F3F3;
+    padding: 20px 30px;
+    border: 1px solid #FFFFFF;
+    background: #151414;
+    border-radius: 8px;
+    margin-bottom: 16px;
+}
+.subscribe-btn{
+    color: #F15B22;
+    font-weight: 600;
+    font-size: 20px;
+    border: 0; 
+    padding: 20px 25px;
+    border-radius: 10px;
+    background:  #FFFFFF;
+}
+.social-iteams{
+    padding-top: 32px;
+    padding-left: 230px;
+    display: flex;
+    gap: 17px;
+}
