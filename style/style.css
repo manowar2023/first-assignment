@@ -45,8 +45,8 @@ background-image: url('../images/banner/banner2.png');
 
 }
 .contact-btn{
-padding-left: 950px;
-padding-right: 200px;
+padding-left: 1150px;
+padding-right: 30px;
 padding-bottom: 167px;
 }
 /* Hader section style end */
@@ -159,7 +159,7 @@ background: #ecaad3;
 .my-plans-title{
     font-weight: 700;
     font-size: 40px;
-    line-height: 47px;
+    line-height: 47px;                                                          
     color: #151414;
     text-align: center;
     margin-top: 130px;
@@ -195,7 +195,7 @@ font-size: 20px;
 }
 /* My Plans Styles  End*/
 
-/* Awlays keep a positive mindset */
+/* Awlays keep a positive mindset section start */
 .positive-mindset{
     margin-left: 230px;
     margin-right: 230px;
@@ -235,9 +235,12 @@ padding-left: 64px;
     padding: 20px 25px;
     border-radius: 10px;
     background:  #FFFFFF;
-}
 
-/* FUTUR Section */
+}
+/* Awlays keep a positive mindset section End */
+
+/* FUTUR Section Start */
+
 .bottom-content{
     padding-top: 130px;
     padding-right: 130px;
@@ -296,3 +299,4 @@ padding-left: 64px;
     display: flex;
     gap: 17px;
 }
+/* FUTUR Section End */
